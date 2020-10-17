@@ -22,10 +22,10 @@
     &nbsp;<table>
     &nbsp;<tr>
       &nbsp;<td>
-        &nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=codemonkey51" alt="codedmonkey51 github stats"></a>
+        &nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=codemonkey51&show_icons=true&theme=dark" alt="codedmonkey51 github stats"></a>
       </td>
       <td>
-        &nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemonkey51" alt="Top Langs"></a>
+        &nbsp;<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemonkey51&show_icons=true&theme=dark" alt="Top Langs"></a>
       </td>
     </tr>
   </details>
