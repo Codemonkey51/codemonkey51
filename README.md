@@ -6,7 +6,7 @@
   &nbsp;[Bad website](https://codemonkey51.dev) -=- [Email](mailto:contact@codemonkey51.dev) -=- [Repl](https://repl.it/@codemonkey51)
 
   <details open>
-    &nbsp;<summary><img src="http://iconexperience.com/_img/o_collection_png/green_dark_grey/512x512/plain/calendar.png" height="16"> Projects</summary>
+    &nbsp;<summary><img src="http://www.iconexperience.com/_img/o_collection_png/green_dark_grey/512x512/plain/calendar.png" height="16"> Projects</summary>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/codemonkey51/replit-db-client">Replit db client</a>, a repldb client for python<br>
   &nbsp;</details>
 
