@@ -7,7 +7,7 @@
 
   <details open>
     &nbsp;<summary><img src="http://www.iconexperience.com/_img/o_collection_png/green_dark_grey/512x512/plain/calendar.png" height="16"> Projects</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/codemonkey51/replit-db-client">Replit db client</a>, a repldb client for python<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;random + private stuff<br>
   &nbsp;</details>
 
   <details open>
